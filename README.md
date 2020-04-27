@@ -34,7 +34,7 @@ The speech script model is an overview of the structure of the speech recognitio
  - Added sound reactions to voice commands
  - Speech command integration
  
-## OutComes ##
+## Outcomes ##
 
 The results of this project consisted of an executable file program able to be run by any Oculus Rift S device that has been enabled to run apps that are not form the Oculus store. User-friendly functionality has been increased with the implementation of menu and option screens as well as the adjusted frame-rate to help reduce motion sickness. Voice integratin still needs work so that phrases can be recognized rather than individually spoken words.
 
