@@ -2,7 +2,7 @@
  Classroom simulation in Virtual Reality with voice command integtration.
 
 ## Link to Unity Files ##
-Unity files will be available on Github soon 
+Unity files will be available on Github soon.
 For the time being, all unity files can be downloaded from my Onedrive account.
 
 https://1drv.ms/u/s!AhSGX4EciyHXmM1A0YPuTFv3JwB7CA?e=YNW1ve
