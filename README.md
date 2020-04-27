@@ -1,6 +1,13 @@
 # VirtualRealityClassroom
  Classroom simulation in Virtual Reality with voice command integtration.
+
+## Link to Unity Files ##
+Unity files will be available on Github Soon 
+for now, all unity files can be downloaded from my Onedrive account.
+
+https://1drv.ms/u/s!AhSGX4EciyHXmM1A0YPuTFv3JwB7CA?e=YNW1ve
  
+After downloading, remove the "VR-class Executable" folder and save to a different location before accessing the project with Unity. 
  
 ## Overview ##
 VR Classroom is a continuation project, started by Jason Oehlberg, that is being developed for Northeastern State University's College of Education. This version of the project aimed to build upon some of the groundwork layed out in the previous version.
@@ -12,7 +19,6 @@ The College of Education is looking for a software that their students could acc
 The use of virtual simulation software could be applied to a wide array of job training within the work-force industry. This kind of training could help prepare workers for high-risk environments such as electrical, construction, heavy-machinery, or even space exploration.
 
 ## Architecture ##
-
 All modelling for this project was made within Lucidhart.
 You can view these models at the following link.
 
@@ -35,7 +41,6 @@ The speech script model is an overview of the structure of the speech recognitio
  - Speech command integration
  
 ## Outcomes ##
-
 The results of this project consisted of an executable file program able to be run by any Oculus Rift S device that has been enabled to run apps that are not form the Oculus store. User-friendly functionality has been increased with the implementation of menu and option screens as well as the adjusted frame-rate to help reduce motion sickness. Voice integratin still needs work so that phrases can be recognized rather than individually spoken words.
 
 ## Technologies Used ##
